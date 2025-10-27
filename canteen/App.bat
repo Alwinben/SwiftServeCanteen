@@ -1,0 +1,1 @@
+java -cp "bin;lib\mysql-connector-j-9.4.0.jar" com.canteen.app.CanteenOrderSystem
